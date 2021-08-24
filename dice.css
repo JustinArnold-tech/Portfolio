@@ -1,0 +1,41 @@
+#button1{
+    background-color: #6A4C93;
+    font-weight: bold;
+}
+
+#button2{
+    background-color: #8AC926;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+
+#P1S{
+    color: #6A4C93;
+}
+
+#P2S{
+    color: #8AC926;
+}
+
+#P1{
+    color: #6A4C93;
+}
+
+#P2{
+    color: #8AC926;
+}
+
+#DH3{
+    color: #96BDC6;
+}
+
+#DH4{
+    color: #96BDC6;
+}
+
+body{
+    background-color: #5D2E46;
+}
