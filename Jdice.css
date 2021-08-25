@@ -8,8 +8,14 @@
     font-weight: bold;
 }
 
-h1{
+#top1{
     text-align: center;
+    color: white;
+}
+
+#top2{
+    text-align: center;
+    color: white;
 }
 
 #P1S{
