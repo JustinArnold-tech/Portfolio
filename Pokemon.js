@@ -22,6 +22,6 @@ function bulbasaur(){
 }
 
 function charmander(){
-    document.getElementById("pokemonPic").src = "https://static.wikia.nocookie.net/pokemon-and-digimon/images/6/63/Ash_Charmander.png/revision/latest?cb=20160113223827";
+    document.getElementById("pokemonPic").src = "https://pbs.twimg.com/profile_images/1377854248621199360/F7S8p4xK.jpg";
     document.getElementById("pokeball3").src = "Popen2.png";
 }
