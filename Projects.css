@@ -7,27 +7,37 @@ body{
 }
 
 #Card1{
-    border: solid rgb(97, 139, 74);
+    border: solid rgb(71, 71, 71);
+    border-radius: 10px;
     padding-top: 8px;
     background-color: rgb(175, 188, 136);
 }
 
 #Card2{
-    border: solid rgb(97, 139, 74);
+    border: solid rgb(71, 71, 71);
+    border-radius: 10px;
     padding-top: 8px;
-    background-color: rgb(122, 160, 149);
-    
+    background-color: rgb(122, 160, 149);    
 }
 
 #Card3{
-    border: solid rgb(97, 139, 74);
+    border: solid rgb(71, 71, 71);
+    border-radius: 10px;
     padding-top: 8px;
     background-color: rgb(175, 188, 136);
 }
 
 #Card4{
     border: solid rgb(71, 71, 71);
+    border-radius: 10px;
     padding-top: 8px;
     background-color: rgb(122, 160, 149);
 }
 
+#cb1{
+    background-color: rgb(50, 41, 47);
+}
+
+#cb2{
+    background-color: rgb(85, 53, 85);
+}
