@@ -41,6 +41,13 @@ body{
     background-color: rgb(175, 188, 136);
 }
 
+#Card6 {
+    border: solid rgb(71, 71, 71);
+    border-radius: 10px;
+    padding-top: 8px;
+    background-color: rgb(122, 160, 149);
+}
+
 #cb1{
     background-color: rgb(50, 41, 47);
 }
